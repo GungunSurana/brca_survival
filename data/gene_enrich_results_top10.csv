@@ -1,0 +1,11 @@
+name,p_value,native,description
+cytoplasmic translation,1.0091152727504844e-16,GO:0002181,"""The chemical reactions and pathways resulting in the formation of a protein in the cytoplasm. This is a ribosome-mediated process in which the information in messenger RNA (mRNA) is used to specify the sequence of amino acids in the protein."" [GOC:hjd]"
+cytosolic ribosome,9.619361761268706e-17,GO:0022626,"""A ribosome located in the cytosol."" [GOC:mtg_sensu]"
+nucleoplasm,3.5395613094230986e-17,GO:0005654,"""That part of the nuclear content other than the chromosomes or the nucleolus."" [GOC:ma, ISBN:0124325653]"
+Eukaryotic Translation Initiation,2.3579926938678655e-17,REAC:R-HSA-72613,Eukaryotic Translation Initiation
+Cap-dependent Translation Initiation,2.3579926938678655e-17,REAC:R-HSA-72737,Cap-dependent Translation Initiation
+GTP hydrolysis and joining of the 60S ribosomal subunit,1.180188871414186e-17,REAC:R-HSA-72706,GTP hydrolysis and joining of the 60S ribosomal subunit
+L13a-mediated translational silencing of Ceruloplasmin expression,7.856581850177397e-18,REAC:R-HSA-156827,L13a-mediated translational silencing of Ceruloplasmin expression
+protein binding,5.8512778489835185e-27,GO:0005515,"""Binding to a protein."" [GOC:go_curators]"
+cytosol,2.09358770283495e-32,GO:0005829,"""The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes."" [GOC:hjd, GOC:jl]"
+cytoplasm,2.9237786722075533e-35,GO:0005737,"""The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures."" [ISBN:0198547684]"
